@@ -53,3 +53,5 @@ console.log(func3("あろーかんすう"));
 const func4 = (num1, num2) => num1 + num2;
 
 console.log(func4(1,2));
+
+branchtest
